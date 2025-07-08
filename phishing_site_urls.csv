@@ -1,0 +1,11 @@
+url,label
+http://192.168.0.1/login,1
+https://secure.paypal.com,0
+http://bit.ly/2xyzAB,1
+https://accounts.google.com,0
+http://verify-login.bank.com,1
+https://tinyurl.com/phish123,1
+http://login.security-check.com,1
+https://facebook.com/login,0
+http://malicious.website.com/login@user,1
+https://my.safe-site.org,0
